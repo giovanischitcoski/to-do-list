@@ -3,7 +3,7 @@
 
 Uma aplicação completa de lista de tarefas construída com HTML, CSS e JavaScript, com persistência de dados no localStorage.
 
-![Preview da To-Do List](![image](https://github.com/user-attachments/assets/25850bc5-5799-4d20-8abe-212127969c18))
+![Preview da To-Do List](https://github.com/user-attachments/assets/25850bc5-5799-4d20-8abe-212127969c18)
 
 
 ## ✨ Funcionalidades
